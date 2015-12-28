@@ -9,6 +9,9 @@ $ sudo apt-get update
 
 $ sudo apt-get install oracle-java8-installer
 
+configure java environment:
+
+$ sudo apt-get install oracle-java8-set-default
 
 ## IDES
 ### intellij
